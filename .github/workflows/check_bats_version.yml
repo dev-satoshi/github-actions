@@ -1,5 +1,7 @@
-name: learn-github-actions
+name: check_bats_version
+
 on: [push]
+
 jobs:
   check-bats-version:
     runs-on: ubuntu-latest

@@ -23,9 +23,12 @@ batsのversionを表示するWorkflow
 <h2 id="add_issue_to_project">add_issue_to_project</h2>
 Issue作成時に指定したProjectに自動追加するWorkflow
 
-#### Comment
-labeld(オプション)を使うことで、特定のラベルがついたIssueだけをProjectに追加することもできる<br>
-label-operator(オプション)で、ラベルフィルタの動作を指定する
+<details>
+<summary>Memo</summary>
+  
+- labeld(オプション)を使うことで、特定のラベルがついたIssueだけをProjectに追加することもできる<br>
+- label-operator(オプション)で、ラベルフィルタの動作を指定する
+</details>
 
 [View the code](https://github.com/dev-satoshi/github-actions-practice/blob/main/.github/workflows/add_issue_to_project.yml)
 

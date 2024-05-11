@@ -1,4 +1,4 @@
-# GitHub Actions Practice
+# GitHub Actions Sandbox
 
 ## 目次
 <!-- 番号付きのリスト -->
